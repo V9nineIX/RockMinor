@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RockMinor/static/css/main.14f22290.css",
+    "main.js": "/RockMinor/static/js/main.01bd0205.js",
+    "static/js/453.a5a72b74.chunk.js": "/RockMinor/static/js/453.a5a72b74.chunk.js",
+    "index.html": "/RockMinor/index.html",
+    "main.14f22290.css.map": "/RockMinor/static/css/main.14f22290.css.map",
+    "main.01bd0205.js.map": "/RockMinor/static/js/main.01bd0205.js.map",
+    "453.a5a72b74.chunk.js.map": "/RockMinor/static/js/453.a5a72b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14f22290.css",
+    "static/js/main.01bd0205.js"
+  ]
+}
